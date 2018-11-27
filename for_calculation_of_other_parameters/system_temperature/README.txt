@@ -20,8 +20,6 @@ appended to the pdb_id_and_obtained_system_temperature.txt file.
 4)Proceeds in the same manner with the rest of lines of the
 pdb_entry_type.txt file.
 
-Already computed results are available in the already_computed_results 
-directory.
 
 (*)BRENDA in 2017: new perspectives and new tools in BRENDA 
 Placzek S., Schomburg I., Chang A., Jeske L., Ulbrich M., Tillack J.,
