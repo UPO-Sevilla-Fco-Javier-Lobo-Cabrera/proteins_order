@@ -6,5 +6,3 @@ As a result of the execution of main_casp12.py in the rankings_and_deviations_fr
 
 predictions_data and rankings_data are directories containing necessary input files for the execution of main_casp12.py . To create these directories the scripts download_predictions_data.py and download_rankings_data.py can be used.
 
-Already computed results are available in the already_computed_results 
-directory.
