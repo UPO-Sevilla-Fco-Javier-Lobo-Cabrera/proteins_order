@@ -31,5 +31,4 @@ pdb_id_and_obtained_surf_area_per_res.txt file.
 4)Proceeds in the same manner with the rest of lines of the
 pdb_entry_type.txt file.
 
-Already computed results are available in the already_computed_results 
-directory.
+
